@@ -84,7 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-  # Plugins for emoji
-  plugins:
-  - jemoji

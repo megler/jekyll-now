@@ -18,4 +18,4 @@ I find learning to code is best done in increments.  Get a small block to work, 
 
 Posts on this blog will be set up in a similar fashion.  Instead of ginormous posts that show how to build an entire app, I'll take it step by step.  That helps me relocate how I did something in a particular framework and also keeps things short and sweet.
 
-Let's see how that works out.  :wink:
+Let's see how that works out.
