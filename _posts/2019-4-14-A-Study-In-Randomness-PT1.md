@@ -23,6 +23,10 @@ While there may not be an overwhelming need to have a div change color every x s
 
 **Step 1:** Let's chug-a-lug on over to [CodePen](https://codepen.io) and whip up something to work with.
 
-**Step 2:** Create a div that is a 200px x 200px box with a background color of blue.  <span class="highlight">NOTE</span>
+**Step 2:** Create a div that is a 200px x 200px box with a background color of blue. <span class="highlight">NOTE:</span> If you're new to code, remember when you create an empty div you need to at least have a height or you won't see anything.
+
+So our starting HTML/CSS is going to look like this:
+
+![alt text](../images/basicDiv.jpg "Step 1 Create a div")
 
 
